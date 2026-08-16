@@ -95,4 +95,10 @@
 <changefreq>daily</changefreq>
 <priority>0.8</priority>
 </url>
+<url>
+<loc>https://mdm32.net/in-jelly/</loc>
+<lastmod>2026-08-16T13:42:37.328Z</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.8</priority>
+</url>
 </urlset>
