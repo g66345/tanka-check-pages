@@ -138,8 +138,14 @@
 <priority>0.8</priority>
 </url>
 <url>
-<loc>https://mdm32.net/scottie-flower-pack/</loc>
-<lastmod>2026-08-18T11:42:22.973Z</lastmod>
+<loc>https://mdm32.net/scottie-flower-pack-single/</loc>
+<lastmod>2026-08-18T12:22:25.740Z</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://mdm32.net/scottie-flower-pack-double/</loc>
+<lastmod>2026-08-18T12:22:40.247Z</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.8</priority>
 </url>
