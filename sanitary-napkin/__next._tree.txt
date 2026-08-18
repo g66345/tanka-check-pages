@@ -1,2 +1,2 @@
 :HL["/_next/static/chunks/0brbwii8shaec.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"category","param":{"type":"d","key":"sanitary-napkin","siblings":[]},"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}},"staleTime":300,"buildId":"n5CM0-21rl0DS1lGWUs6n"}
+0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"category","param":{"type":"d","key":"sanitary-napkin","siblings":[]},"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}},"staleTime":300,"buildId":"6HG9NdZRy7sR0xrrCcbSA"}
