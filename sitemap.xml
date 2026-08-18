@@ -113,4 +113,10 @@
 <changefreq>daily</changefreq>
 <priority>0.8</priority>
 </url>
+<url>
+<loc>https://mdm32.net/ajinomoto-gyoza/</loc>
+<lastmod>2026-08-18T02:03:55.861Z</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.8</priority>
+</url>
 </urlset>
