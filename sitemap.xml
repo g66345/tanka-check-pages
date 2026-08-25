@@ -269,4 +269,10 @@
 <changefreq>daily</changefreq>
 <priority>0.8</priority>
 </url>
+<url>
+<loc>https://mdm32.net/resesh/</loc>
+<lastmod>2026-08-25T07:04:03.770Z</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.8</priority>
+</url>
 </urlset>
