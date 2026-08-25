@@ -371,4 +371,10 @@
 <changefreq>daily</changefreq>
 <priority>0.8</priority>
 </url>
+<url>
+<loc>https://mdm32.net/cup-noodle/</loc>
+<lastmod>2026-08-25T13:31:34.743Z</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.8</priority>
+</url>
 </urlset>
