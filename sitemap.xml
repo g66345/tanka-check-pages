@@ -335,4 +335,10 @@
 <changefreq>daily</changefreq>
 <priority>0.8</priority>
 </url>
+<url>
+<loc>https://mdm32.net/kikkoman-soy-sauce/</loc>
+<lastmod>2026-08-25T11:30:06.138Z</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.8</priority>
+</url>
 </urlset>
