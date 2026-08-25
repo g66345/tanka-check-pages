@@ -1,2 +1,2 @@
 :HL["/_next/static/chunks/0brbwii8shaec.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"category","param":{"type":"d","key":"kikkoman-soy-sauce","siblings":[]},"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}},"staleTime":300,"buildId":"yCxlRpg3wIEWXlu8XKXK2"}
+0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"category","param":{"type":"d","key":"kikkoman-soy-sauce","siblings":[]},"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}},"staleTime":300,"buildId":"qMJho9b36eG_yppDP5Mzw"}
