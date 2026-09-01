@@ -419,4 +419,10 @@
 <changefreq>daily</changefreq>
 <priority>0.8</priority>
 </url>
+<url>
+<loc>https://mdm32.net/i-lohas/</loc>
+<lastmod>2026-09-01T14:18:58.893Z</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.8</priority>
+</url>
 </urlset>
