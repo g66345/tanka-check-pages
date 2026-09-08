@@ -443,4 +443,10 @@
 <changefreq>daily</changefreq>
 <priority>0.8</priority>
 </url>
+<url>
+<loc>https://mdm32.net/wide-haiter/</loc>
+<lastmod>2026-09-08T05:18:33.482Z</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.8</priority>
+</url>
 </urlset>
